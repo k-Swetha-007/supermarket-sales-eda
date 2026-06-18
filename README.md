@@ -1,2 +1,2 @@
 # supermarket-sales-eda
-Python EDA projecr
+Python EDA project
